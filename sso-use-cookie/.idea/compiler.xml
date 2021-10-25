@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sso_main" />
+        <module name="sso_login" />
+        <module name="sso_app1" />
+        <module name="sso_app2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sso_app1" target="1.8" />
+      <module name="sso_app2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sso-use-cookie" options="" />
+      <module name="sso_app1" options="-parameters -Xlint:all" />
+      <module name="sso_app2" options="-parameters -Xlint:all" />
+      <module name="sso_login" options="-parameters -Xlint:all" />
+      <module name="sso_main" options="-parameters -Xlint:all" />
+    </option>
+  </component>
+</project>
