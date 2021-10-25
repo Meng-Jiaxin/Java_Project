@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sso-use-cookie/sso-use-cookie.iml" filepath="$PROJECT_DIR$/sso-use-cookie/sso-use-cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-use-cookie/sso_app1/sso_app1.iml" filepath="$PROJECT_DIR$/sso-use-cookie/sso_app1/sso_app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-use-cookie/sso_app2/sso_app2.iml" filepath="$PROJECT_DIR$/sso-use-cookie/sso_app2/sso_app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sso_final.iml" filepath="$PROJECT_DIR$/.idea/sso_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-use-cookie/sso_login/sso_login.iml" filepath="$PROJECT_DIR$/sso-use-cookie/sso_login/sso_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-use-cookie/sso_main/sso_main.iml" filepath="$PROJECT_DIR$/sso-use-cookie/sso_main/sso_main.iml" />
+    </modules>
+  </component>
+</project>
